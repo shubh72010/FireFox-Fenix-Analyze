@@ -1,0 +1,5 @@
+diagrams/
+*.swp
+*.swo
+*~
+.DS_Store
